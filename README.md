@@ -11,4 +11,14 @@ In the project directory, you can run: <br/>
 ### `yarn start`
 
 
+## How to Use:
+Clone the repository to your local machine using git clone.
+Open the terminal in vscode or editor you are using : 
+Change directory to server and run command yarn start :
+Open new terminal change directory to client side run command npm start :
+And you are ready to use the application 
+Enter login details and you will be directed to Profile page then 
+
+## Tech Stack Used 
+MERN :- Mongodb,Expressjs,React,Nodejs
 
